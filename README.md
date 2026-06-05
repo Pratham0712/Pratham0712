@@ -1,4 +1,4 @@
-# ⚡ Hi, I'm @YOUR_GITHUB_USERNAME
+# ⚡ Hi, I'm Pratham
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Building_System_Architecture-7928CA?style=for-the-badge" />
