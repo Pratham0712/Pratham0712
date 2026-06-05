@@ -13,7 +13,7 @@ An autonomous engineer focused on scalable cloud infrastructure, network protoco
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,docker,kubernetes,gcp,linux,git,github,selenium,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,gcp,linux,git,github,mysql,kotlin,c++,c,html,css" />
   </a>
 </p>
 
